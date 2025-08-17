@@ -272,12 +272,6 @@ header .logo {
   .contacts-link:focus {
     color: var(--ocean);
   }
-}
-
-@media screen and (min-width: 1158px) {
-  body {
-    background-color: green;
-  }
 
   header .logo {
     margin-right: 76px;
